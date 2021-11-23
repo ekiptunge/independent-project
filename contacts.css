@@ -1,7 +1,13 @@
 .content {
     font-size: 40px;
     text-align: center;
+    margin: 5pc;
+    padding: auto;
+    background-color: indigo;
 }
 #intro {
     text-align: center;
+}
+.background {
+    color: whitesmoke;
 }
