@@ -13,5 +13,5 @@
 ## Support and contact details
 {cell: +254701975831 , email: emanutunge@gmail.com}
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
-Copyright (c) {year} **{List of contributors or company name}*
+*{https://github.com/ekiptunge/independent-project/blob/master/LICENSE}*
+Copyright (c) {2021} **{rpa team}*
