@@ -4,3 +4,7 @@
 .margin {
     margin: 2pc;
 }
+#background {
+    background-color: aquamarine;
+    font-size: 30px;
+}
