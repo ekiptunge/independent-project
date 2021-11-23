@@ -18,3 +18,8 @@
     text-align: center;
     font-size: 30px;
 }
+@media (max-width:789) {
+    a{
+        font-size: 20px;
+    }
+}

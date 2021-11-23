@@ -19,3 +19,8 @@ img {
     height: 400px;
 
 }
+@media(max-width:640){
+    a{
+        font-size: 20px;
+    }
+}

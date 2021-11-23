@@ -21,3 +21,8 @@ img {
     text-align: center;
     font-size: 30px;
 }
+@media(max-width:635){
+    a{
+        font-size: 20px;
+    }
+}
