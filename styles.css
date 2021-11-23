@@ -3,3 +3,10 @@ img {
     height: 480px;
     float: right;
 }
+.important {
+    color: tomato;
+}
+.vision {
+    color: green;
+    font-style: oblique;
+}
